@@ -26,3 +26,8 @@ Your browser should be automatically launched. If the screen is blank, reload th
 It should NOT normally be necessary to reload manually.
 
 Edit the file [src/sketch.ts](src/sketch.ts) and whenever you save the browser should automatically be updated.
+
+
+### Credit 
+
+This starter project is a slightly modified version of https://github.com/Gaweph/p5-typescript-starter by Gareth Williams.
