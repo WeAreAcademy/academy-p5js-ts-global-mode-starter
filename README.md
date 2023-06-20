@@ -25,4 +25,4 @@ Your browser should be automatically launched. If the screen is blank, reload th
 
 It should NOT normally be necessary to reload manually.
 
-Edit the file [src/circlePacking.ts](src/circlePacking.ts) and whenever you save the browser should automatically be updated.
+Edit the file [src/sketch.ts](src/sketch.ts) and whenever you save the browser should automatically be updated.
